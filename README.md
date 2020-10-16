@@ -1,2 +1,3 @@
 # Digital-Forensic
-B3
+Student name: Trần Trường Giang
+Student ID: BI9-090
